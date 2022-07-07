@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# next-erc725-l16
+
+This is a repo to reproduce CORS error reported here: [Discord message](https://discord.com/channels/359064931246538762/857568107820351508/993139538929127474)
 
 ## Getting Started
 
